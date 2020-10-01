@@ -1,2 +1,2 @@
-# COMBINE_2020_talk
-This repository contains slides and code for my talk at the COMBINE conference 2020
+# COMBINE 2020 talk
+This repository contains notebook / slides for my talk at the COMBINE conference 2020
