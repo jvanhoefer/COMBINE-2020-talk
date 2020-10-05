@@ -1,9 +1,6 @@
-<p float="left">
-  <img src="COMBINE_logo.png" alt="COMBINE_logo" width="25%" align="left"/>
-  <img src="./jupyter notebook/img/pypesto_logo.png" alt="COMBINE_logo" width="25%" align="right"/> 
-</p>
-<br/>
-<br/>
+<img src="COMBINE_logo.png" alt="COMBINE_logo" width="25%" align="left"/>
+<img src="./jupyter notebook/img/pypesto_logo.png" alt="COMBINE_logo" width="25%" align="right"/> 
+
 
 # pyPESTO - A Python Package for Parameter Estimation and Uncertainty Quantification
 
