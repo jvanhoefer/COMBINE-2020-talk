@@ -1,5 +1,7 @@
-<div class="row">   <div class="column">    <img src="COMBINE_logo.png" alt="COMBINE_logo" style="zoom:3%;" align="right"/>   </div>   <div class="column">  <img src="./jupyter notebook/img/pypesto_logo.png" alt="COMBINE_logo" style="zoom:3%;" align="left"/>  </div>  </div>
-
+<p float="left">
+  <img src="COMBINE_logo.png" alt="COMBINE_logo" style="zoom:3%;" align="right"/>
+  <img src="./jupyter notebook/img/pypesto_logo.png" alt="COMBINE_logo" style="zoom:3%;" align="left"/> 
+</p>
 
 
 # pyPESTO - A Python Package for Parameter Estimation and Uncertainty Quantification
