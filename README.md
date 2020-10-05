@@ -1,12 +1,6 @@
-<img src="COMBINE_logo.png" alt="COMBINE_logo" width="25%" align="left"/>
-<img src="./jupyter notebook/img/pypesto_logo.png" alt="COMBINE_logo" width="25%" align="right"/> 
-
-<br />
-<br />
-
 # pyPESTO - A Python Package for Parameter Estimation and Uncertainty Quantification
 
-This repository contains the jupyter notebook and slides for my talk at the COMBINE conference 2020.
+This repository contains the jupyter notebook and slides for my talk at the [COMBINE conference 2020](http://co.mbine.org/events/COMBINE_2020).
 
 
 
